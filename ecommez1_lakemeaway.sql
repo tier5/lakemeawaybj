@@ -110,12 +110,12 @@ CREATE TABLE IF NOT EXISTS `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://ecommercedevelopment.us/lakemeaway', 'yes'),
-(2, 'home', 'http://ecommercedevelopment.us/lakemeaway', 'yes'),
+(1, 'siteurl', '45.55.194.129', 'yes'),
+(2, 'home', '45.55.194.129', 'yes'),
 (3, 'blogname', 'LakeMeAwaywLBJ', 'yes'),
 (4, 'blogdescription', 'Luxury home rentals on Lake LBJ in Kingsland, Texas', 'yes'),
 (5, 'users_can_register', '1', 'yes'),
-(6, 'admin_email', 'salehul.hossain@webskitters.com', 'yes'),
+(6, 'admin_email', 'jon@thinkvaughn.com', 'yes'),
 (7, 'start_of_week', '1', 'yes'),
 (8, 'use_balanceTags', '0', 'yes'),
 (9, 'use_smilies', '1', 'yes'),

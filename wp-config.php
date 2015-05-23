@@ -19,10 +19,10 @@
 define('DB_NAME', 'ecommez1_lakemeaway');
 
 /** MySQL database username */
-define('DB_USER', 'ecommez1_lakemea');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '$wdc@wp#15');
+define('DB_PASSWORD', 'Dominant@1');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
